@@ -1,8 +1,8 @@
 - 👋 Hi, I’m RachanaAmgai
-- 👀 I’m interested in Maching learning and data visulalization
-- 🌱 I’m currently learning python code and visulization tools such as tableu and power BI
+- 👀 I’m interested in Maching learning and data visuallization
+- 🌱 I’m currently learning python code and visualization tools such as tableu and power BI
 - 💞️ Currently looking for job opportunities related to data science.
-- 📫 Please reach me on my email: rachanaamgai@gmail.com
+- 📫 Please reach out to me on my email: rachanaamgai@gmail.com
 - 😄 Pronouns: Raa cha na
 - ⚡ I like to Travel around the world and learning new things which make me step up ever day.
 
