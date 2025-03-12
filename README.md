@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RachanaAmgai
+- 👋 Hi, I’m RachanaAmgai
 - 👀 I’m interested in Maching learning and data visulalization
 - 🌱 I’m currently learning python code and visulization tools such as tableu and power BI
-- 💞️ I’m looking to collaborate on job offer related to data science.
-- 📫 How to reach me on my email: rachanaamgai@gmail.com
+- 💞️ Currently looking for job opportunities related to data science.
+- 📫 Please reach me on my email: rachanaamgai@gmail.com
 - 😄 Pronouns: Raa cha na
-- ⚡ Fun fact: Travelling and learning new things which make me step up ever day.
+- ⚡ I like to Travel around the world and learning new things which make me step up ever day.
 
 <!---
 RachanaAmgai/RachanaAmgai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
